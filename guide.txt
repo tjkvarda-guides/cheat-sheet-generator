@@ -1,0 +1,17 @@
+head
+title The Legend of Zelda Breath of the Wild Cheat Sheet
+description 100% Completion Checklist
+author Taylor Kvarda
+end
+
+body
+
+nav
+tab Playthrough
+end
+
+content
+title The Legent of Zelda Breath of the Wild Cheat Sheet
+end
+
+end

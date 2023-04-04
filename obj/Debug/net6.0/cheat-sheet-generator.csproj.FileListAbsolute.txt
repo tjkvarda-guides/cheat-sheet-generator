@@ -1,0 +1,15 @@
+C:\Users\tjkva\Documents\cheat-sheet-generator\bin\Debug\net6.0\cheat-sheet-generator.exe
+C:\Users\tjkva\Documents\cheat-sheet-generator\bin\Debug\net6.0\cheat-sheet-generator.deps.json
+C:\Users\tjkva\Documents\cheat-sheet-generator\bin\Debug\net6.0\cheat-sheet-generator.runtimeconfig.json
+C:\Users\tjkva\Documents\cheat-sheet-generator\bin\Debug\net6.0\cheat-sheet-generator.dll
+C:\Users\tjkva\Documents\cheat-sheet-generator\bin\Debug\net6.0\cheat-sheet-generator.pdb
+C:\Users\tjkva\Documents\cheat-sheet-generator\obj\Debug\net6.0\cheat-sheet-generator.csproj.AssemblyReference.cache
+C:\Users\tjkva\Documents\cheat-sheet-generator\obj\Debug\net6.0\cheat-sheet-generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjkva\Documents\cheat-sheet-generator\obj\Debug\net6.0\cheat-sheet-generator.AssemblyInfoInputs.cache
+C:\Users\tjkva\Documents\cheat-sheet-generator\obj\Debug\net6.0\cheat-sheet-generator.AssemblyInfo.cs
+C:\Users\tjkva\Documents\cheat-sheet-generator\obj\Debug\net6.0\cheat-sheet-generator.csproj.CoreCompileInputs.cache
+C:\Users\tjkva\Documents\cheat-sheet-generator\obj\Debug\net6.0\cheat-sheet-generator.dll
+C:\Users\tjkva\Documents\cheat-sheet-generator\obj\Debug\net6.0\refint\cheat-sheet-generator.dll
+C:\Users\tjkva\Documents\cheat-sheet-generator\obj\Debug\net6.0\cheat-sheet-generator.pdb
+C:\Users\tjkva\Documents\cheat-sheet-generator\obj\Debug\net6.0\cheat-sheet-generator.genruntimeconfig.cache
+C:\Users\tjkva\Documents\cheat-sheet-generator\obj\Debug\net6.0\ref\cheat-sheet-generator.dll
