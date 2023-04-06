@@ -10,7 +10,7 @@ internal class Tab : ISaveable
     public async Task Save(StreamWriter writer)
     {
         string target = this.name.Replace(" ", string.Empty);
-        await writer.WriteLineAsync($"          <li><a href=\"#tab{target}\" data-toggle=\"tab\" data-target=\"{target},#btnHideCompleted\">{this.name}</a></li>");
+        await writer.WriteLineAsync($"          <li><a href=\"#tab{target}\" data-toggle=\"tab\" data-target=\"#tab{target},#btnHideCompleted\">{this.name}</a></li>");
     }
 
     public static async Task<Tab> Create(string line)

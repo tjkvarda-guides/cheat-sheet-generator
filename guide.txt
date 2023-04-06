@@ -11,7 +11,135 @@ tab Playthrough
 end
 
 content
-title The Legent of Zelda Breath of the Wild Cheat Sheet
+title The Legend of Zelda Breath of the Wild Cheat Sheet
+
+guidetab Playthrough
+
+section Great Plateau
+Grab Well-Worn Trousers and Old Shirt {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Treasure0676}
+Exit Shrine of Resurrection {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Shrine%20of%20Resurrection}
+Korok 001: Dive into lily pads {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Seed001}
+Main Quest: Follow the Sheikah Slate {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Follow%20the%20Sheikah%20Slate}
+Grab Hylian Trousers from Temple Ruins {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Treasure0674}
+Great Plateau Tower {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Great%20Plateau%20Tower}
+Main Quest: The Isolated Plateau {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=The%20Isolated%20Plateau}
+Oman Au Shrine (1/120) {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Oman%20Au%20Shrine}
+Korok 002: Magnesis Stump SE of Oman Au {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Seed024}
+Korok 003: Rock under balanced rocks to NW {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Seed025}
+Korok 004: Rock under leaves to SW {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Seed022}
+Korok 005: Rock on hill to SW {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Seed009}
+Stone Talus to NW (1/40) {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Talus01}
+Korok 006: Flower trail to NE {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Seed023}
+Warp to Great Plateau Tower {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Great%20Plateau%20Tower}
+Jai Baji Shrine South of Great Plateau Tower (2/120) {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Ja%20Baij%20Shrine}
+Nintendo Switch Shirt: DLC Chest outside Jai Baji {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Treasure1292}
+Korok 007: Rock beneath iron door, behind Jai Baji Shrine {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Seed020}
+Korok 008: Fairylights atop hut to SW {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Seed019}
+Head West across the ravine and use the small ledges to climb to Owa Daim Shrine (3/120) {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Owa%20Daim%20Shrine}
+Korok 009: Rock around corner of rampart SE of Mount Hylia {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Seed016}
+Korok 010: Rock under slab to W {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Seed017}
+Warm Doublet atop Mount Hylia
+Korok 011: Rock Circle West of Mount Hylia {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Seed013}
+Continue NW to Keh Namut Shrine (4/120) {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Keh%20Namut%20Shrine}
+Korok 012: Ice block at end of rampart NW of Keh Namut Shrine {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Seed012}
+Korok 013: Under South side of bridge to NE {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Seed010}
+Korok 014: Magnesis Puzzle to NE West of Hopper Pond {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Seed026}
+Main Quest: Destroy Ganon {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Seek%20Out%20Impa}
+Main Quest: Seek out Impa {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Seek%20Out%20Impa}
+Korok 015: Temple of Time Spire {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Seed018}
+Warp to Oman Au Shrine {https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id=Oman%20Au%20Shrine}
+end
+
+section Dueling Peaks 1
+Korok 016: Fairylights to NW
+Korok 017: Pinwheel shooting to E
+Korok 018: Rock beneath leaves to NE
+Side Quest: EX Treasure: Ancient Mask
+Warp to Ja Baji Shrine
+Korok 019: Rock Beneath Metal Door at ground level
+Head to Outpost Ruins to NE
+Talus to SE (2/40)
+Korok 020: Flower order in Cave to SW
+Korok 021: Rock atop Scout's Hill to E
+Korok 022: Roll Boulder into hole just N
+Korok 023: Rock circle to NE
+Bosh Kala Shrine to N (5/120)
+Korok 024: Fairylights atop flagpole N of Bosh Kala
+Korok 025: Pinwheel shooting to N
+Moblin Club from Moblins in the area
+Korok 026: Rock under boulder to E
+Korok 027: Acorn under Owlan bridge to N
+Korok 028: Rock atop tree to NE
+Korok 029: Magnesis Rock in stump to SE
+Korok 030: Jump 3 fences in a row to SE
+West Nabi Lake Stone Talus to W (3/40)
+Korok 031: Roll Boulder into hole to W
+Korok 032: Pinwheel shooting to W
+Korok 033: Fairylights atop flagpole to SE
+Korok 034: Rock in South Nabi Lake centre to E
+Dueling Peaks Tower to E
+Stone Talus (Senior): E hillside (4/40)
+Korok 035: Apple offering to E
+Korok 036: Rock atop peak to S
+Glide across and climb to Shee Vaneer Shrine(6/120)
+Korok 037: Apple offering to W
+Glide back across to Shee Venath Shrine(7/120)
+Korok 038: Roll Boulder to E
+Ha Dahamar Shrine to E (8/120)
+Dueling Peaks Stable
+Korok 039: Atop Dueling Peaks Stable
+Side Quest: Wild Horses
+Side Quest: Misko, the Great Bandit
+Warp back to Shee Venath Shrine
+Korok 040: Rock atop tree on Marble Ridge near Guardian Stalker
+North Marble Ridge Stone Talus: Valley to E (5/40)
+Korok 041: Lilies E of Talus
+Korok 042: Rock Circle in centre of lake to SE
+Korok 043: Rock Circle at Kakariko Bridge to SE
+Follow path to Hestu
+Side Quest: The Priceless Maracas
+Get Maracas from camp
+Korok 044: Fairylights atop tree E of Maracas camp
+Return Maracas to Hestu
+Korok 045: Magnesis Puzzle along path to Kakariko Village
+Korok 046: Rock atop overhanging ledge along path
+Korok 047: Rock atop pillar directly to S
+Korok 048: Rock atop pillar to West
+Korok 049: Apple Trees to W
+Korok 050: Shoot emblem to NE
+Korok 051: Rock on ledge to N
+Korok 052: Offer apple outside Impa's
+Talk to Impa
+Main Quest: Free the Divine Beasts
+Main Quest: Locked Mementos
+Korok 053: Lilies outside Impa's
+Side Quest: Arrows of Burning Heat
+Inside Arrow Shop
+Side Quest: Koko's Kitchen
+Swift Carrot
+Side Quest: Cooking with Koko
+Goat Butter
+Side Quest: Koko Cuisine
+Raw Meat
+Side Quest: Koko's Specialty
+Courser Bee Honey
+Side Quest: Playtime with Cottla
+Side Quest: Playtime with Cottla
+Mellie's Plum Garden(at night)
+Shed to S of Village
+In front of goddess statue
+In front of shed by fire
+Atop shed near E entrance
+Up by Shrine
+Atop clothes store
+Ta'loh Naeg Shrine Overlooking Village (9/120)
+Korok 054: Shoot Emblem at E exit
+Warp back to Ha Dahamar Shrine
+Take N then E path around Ash Swamp towards Fort Hateno
+end
+
+end
+
 end
 
 end
